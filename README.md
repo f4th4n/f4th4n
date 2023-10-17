@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f4th4n
-- 👀 I’m interested in distributed system
-- 🌱 I’m currently learning Elixir
+- 👀 I’m interested in distributed system, and AI
+- 🌱 I’m currently learning Elixir, Erlang, and Rust
 - 📫 How to reach me https://www.linkedin.com/in/wildan-fathan-a44344188/
 
 <!---
