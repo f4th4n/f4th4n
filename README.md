@@ -1,4 +1,4 @@
-- 👋 Hai, I’m Wildan
-- 🎮 I’m interested in distributed system, and game development
-- 🚀 I’m currently using Elixir, Erlang, and Rust
-- 📫 How to reach me https://www.linkedin.com/in/wildan-fathan-a44344188/
+- 👋 Hai, my name is Wildan Fathan, I'm gamer
+- 🎮 interested in distributed system, and game development. Most of the time I work on my open source, [gen_game](https://github.com/f4th4n/gen_game)
+- 🚀 currently using Elixir, Erlang, and Rust
+- 📫 You can reach me at [https://www.linkedin.com/in/wildan-fathan-a44344188/](linkedin)
